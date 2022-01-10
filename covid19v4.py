@@ -22,9 +22,9 @@ def trace_data_for_country(country):
     Prepare lists of datas for x and y axis
     '''
     # x is an empty list
-    x = ___
+    x = []
     # y is an empty list
-    y = ___
+    y = []
     # browse through the country dictionary to get datas.
     # - Keys contain dates
     # - Values contain datas for y axis (number of daily cases)

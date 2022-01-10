@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 covid19v2.py"
+run = "python3 covid19v3.py"
